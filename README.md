@@ -1,7 +1,7 @@
 # ifscmevents-app-mobile
 Repositório criado para apresentação do meu Portifólio
 
-Este projeto doi desenvolviendo no: 
+Este projeto foi desenvolviendo no: 
 
 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
 
